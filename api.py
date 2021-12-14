@@ -15,8 +15,8 @@ import requests
 import time 
 
 #KEYS
-API_KEY = 'AIzaSyCsIJbk1Hqymq3BRCKmguoDZHLniD66CwM'
-CHANNEL_ID = 'UCW8Ews7tdKKkBT6GdtQaXvQ'
+API_KEY = 'YourKEY'
+CHANNEL_ID = 'Youchannel'
 
 response['items'][1]
 
